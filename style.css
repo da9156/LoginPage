@@ -5,7 +5,7 @@ html,body{
 }
 ::selection{
     color: #fff;
-    background: #6665ee;
+    background: ##ffffff;
 }
 .container{
     position: absolute;
@@ -30,7 +30,7 @@ html,body{
    font-size: 15px;
 }
 .container .form form .button{
-    background: #6665ee;
+    background: ##ffffff;
     color: #fff;
     font-size: 17px;
     font-weight: 500;
