@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
 html,body{
-    background: ##ffffff;
+    background: #6665ee;
     font-family: 'Poppins', sans-serif;
 }
 ::selection{
     color: #fff;
-    background: ##ffffff;
+    background: #6665ee;
 }
 .container{
     position: absolute;
@@ -30,7 +30,7 @@ html,body{
    font-size: 15px;
 }
 .container .form form .button{
-    background: ##ffffff;
+    background: #6665ee;
     color: #fff;
     font-size: 17px;
     font-weight: 500;
